@@ -1,0 +1,1382 @@
+5/19/2020 12:54:46 AM :: File doesnt exist at : C:\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\MSIFiles\Packages\devcon.exe
+5/19/2020 12:54:46 AM :: MSIQTExtract : Subfolder copied Successfully from C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\{7B828514-2011-4A22-A4E0-72B4CA254B79} to C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\ChipsetDriversExtract
+5/19/2020 12:54:47 AM :: MSIQTExtract : Appdata copied Successfully from C:\Users\boome\AppData\Roaming\AMD to C:\
+5/19/2020 12:54:47 AM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+5/19/2020 12:54:47 AM :: **************************************************************************
+5/19/2020 12:54:48 AM :: AMD SMBus Found SMBUS with Vendor id VEN_1022.Hence setting property DETECTAMD
+5/19/2020 12:54:48 AM :: Name: AMD SMBus
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/19/2020 12:54:48 AM :: PNP Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/19/2020 12:54:48 AM ::  OS Caption is : Microsoft Windows 10 Pro
+5/19/2020 12:54:48 AM ::  OS Version is : 10.0.18363
+5/19/2020 12:54:48 AM :: The registry key does not exist.Product not yet installed.
+5/19/2020 12:54:48 AM :: SetUninstall value is : 0: Product Installtion.
+5/19/2020 12:54:48 AM :: Setting property SETPSHED since OS WIN10 with Windows build number greater than or equal to the recomended value of 17110.
+5/19/2020 12:54:48 AM :: Enlisting drivers under USB node in Device Manager
+5/19/2020 12:54:48 AM :: ***********************************************************
+5/19/2020 12:54:48 AM :: Device ID: USB\ROOT_HUB30\5&358E0DD4&0&0
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\VID_2516&PID_0051\6&3AF0F9CE&0&12
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\ROOT_HUB30\5&4087D53&0&0
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\ROOT_HUB30\5&D20C093&0&0
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\VID_1532&PID_0221\6&3AF0F9CE&0&5
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+5/19/2020 12:54:48 AM :: **************************************************************************
+5/19/2020 12:54:48 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL02\8&4E2EF18&0&0001
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\PNP0C09\4&24015488&0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\PNP0C02\0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL01\8&4E2EF18&0&0000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\VID_1532&PID_0221&MI_02\7&1A6D7135&0&0002
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\PNP0100\4&24015488&0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_43C6&SUBSYS_02011B21&REV_01\4&2C18E2E3&0&020B
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00\3&11583659&0&C4
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\PRINTENUM\{A8D159D4-9EC9-470C-B2BD-10F4309B8CFC}
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: STORAGE\VOLUME\{B524C410-9993-11EA-8CCD-806E6F6E6963}#0000000008100000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\AMDIF030\0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: AMD GPIO Controller Found with device id ACPI\AMDIF030.Hence setting property SETGPIO3
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: STORAGE\VOLUME\{B524C40D-9993-11EA-8CCD-806E6F6E6963}#0000000021200000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SCSI\DISK&VEN_SANDISK&PROD_SDSSDA240G\5&2B637674&0&010000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\PRINTENUM\{4525DB07-3EC4-4AB6-9E15-78D9767F3270}
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ROOT\VOLMGR\0000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\VID_2516&PID_0051&MI_02\7&13538D8E&0&0002
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: STORAGE\VOLUME\{B524C40F-9993-11EA-8CCD-806E6F6E6963}#0000000000004400
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&00020B
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: STORAGE\VOLUME\{B524C411-9993-11EA-8CCD-806E6F6E6963}#000000E8C4A00000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: STORAGE\VOLUME\{B524C411-9993-11EA-8CCD-806E6F6E6963}#0000000000100000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_8086&DEV_1539&SUBSYS_85F01043&REV_03\6&14BB3B56&0&0000020B
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\PRINTENUM\{0231F9FD-294D-429D-A60F-D9DA8D6C2939}
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00\3&11583659&0&C1
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ROOT\BASICDISPLAY\0000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{47F316AC-9462-457D-9728-D68B53387396}
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: HID\VID_1532&PID_0221&MI_02\8&28BA2CDA&0&0000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\AMDI0030\0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: AMD GPIO Controller Found with device id ACPI\AMDI00300.Hence setting property SETGPIO2
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{EA9B4450-FB7D-4966-8781-298A0DD1014B}
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&9B70DCB&0&0043
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: STORAGE\VOLUME\{B524C40F-9993-11EA-8CCD-806E6F6E6963}#0000000001000000
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\ROOT_HUB30\5&358E0DD4&0&0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_87C01043&REV_51\3&11583659&0&A3
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: PCI\VEN_1022&DEV_1487&SUBSYS_87231043&REV_00\4&1FDE7688&0&0441
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\PNP0C14\ASUSWMI
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: ACPI\PNP0C02\4&1FDE7688&0
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:48 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:48 AM :: Device ID: USB\VID_2516&PID_0051\6&3AF0F9CE&0&12
+5/19/2020 12:54:48 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_12341022&REV_00\3&11583659&0&0B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_12341022&REV_00\3&11583659&0&1A
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&08020B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_149C&SUBSYS_87C01043&REV_00\4&1FDE7688&0&0341
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SCSI\DISK&VEN_&PROD_ST1000DL002-9TT1\5&375FDBB6&0&040000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&39
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&41
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&42
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&43
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\VID\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1486&SUBSYS_87C01043&REV_00\4&1FDE7688&0&0141
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: AMD PSP 11.0 Device Found with device id PCI\VEN_1022&DEV_1486.Hence setting property SETPSP
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1480&SUBSYS_87C01043&REV_00\3&11583659&0&00
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\COMPOSITEBUS\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\VDRVROOT\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_43D5&SUBSYS_11421B21&REV_01\4&2C18E2E3&0&000B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&20020B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUME\{B524C40D-9993-11EA-8CCD-806E6F6E6963}#0000000028600000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\SPACEPORT\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: AMD SMBus Found with revision id REV_61.Hence setting property SETRYZENPPKG
+5/19/2020 12:54:49 AM :: AMD SMBus Found with device id PCI\VEN_1022&DEV_790B.Hence setting property SETSMBUS since : Microsoft Windows 10 Pro
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: HID\VID_2516&PID_0051&MI_00\8&2CD21466&0&0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0501\0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\KDNIC\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT3
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT4
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUME\{B524C410-9993-11EA-8CCD-806E6F6E6963}#0000000000100000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_148A&SUBSYS_87C01043&REV_00\4&D573D7&0&0039
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: AMD PCI Found with device id PCI\VEN_1022&DEV_148A.Hence setting property SETPCI since WIN10 OS.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0091&SUBSYS_38422383&REV_1001\5&10CD9C25&0&0001
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&30020B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SCSI\DISK&VEN_&PROD_ST2000DM008-2FR1\5&2B637674&0&040000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: USB\ROOT_HUB30\5&4087D53&0&0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&3298272D&0&0042
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: UEFI\RES_{9B3D3E13-CBBF-5166-8474-D8EC4570F24B}\0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00\3&11583659&0&C3
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&08
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&10
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&18
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&20
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&28
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&38
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&40
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0B00\4&24015488&0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUME\{B524C40D-9993-11EA-8CCD-806E6F6E6963}#0000000027600000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\UMBUS\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: HID\VID_1532&PID_0221&MI_00&COL03\9&54B1979&0&0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: HID\VID_046D&PID_C05A\7&1A779A49&0&0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0000\4&24015488&0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0C01\C8
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ROOT\ACPI_HAL\0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&38020B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2C18E2E3&0&010B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: STORAGE\VOLUME\{B524C411-9993-11EA-8CCD-806E6F6E6963}#0000000006500000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0C14\AOD
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0C14\AWW
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\PNP0A08\0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: HID\VID_1532&PID_0221&MI_00\8&1EF44EAA&0&0000
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_1168&SUBSYS_10438723&REV_1001\5&6E84173&0&0001
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00\3&11583659&0&C0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\10
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\11
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\12
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\13
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\14
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\15
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\16
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\17
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_1
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_2
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_3
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_4
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_5
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_6
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_7
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_8
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_9
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_A
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_B
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_C
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_D
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_E
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_F
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: PCI\VEN_1022&DEV_1485&SUBSYS_87C01043&REV_00\4&1FDE7688&0&0041
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:49 AM :: AMD PCI Found with device id PCI\VEN_1022&DEV_1485.Hence setting property SETPCI since WIN10 OS.
+5/19/2020 12:54:49 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:49 AM :: Device ID: ACPI_HAL\PNP0C08\0
+5/19/2020 12:54:49 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HTREE\ROOT\0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\BASICRENDER\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0200\4&24015488&0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI_HAL\UEFI\0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HID\VID_2516&PID_0051&MI_01\8&8FAD6A4&0&0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\VID_1532&PID_0221&MI_00\7&1A6D7135&0&0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SWD\PRINTENUM\{2A8CAAC2-5D14-4474-9D14-B95ACF6416FA}
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_10DE&DEV_1AD7&SUBSYS_23833842&REV_A1\4&3A692A4A&0&031A
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HID\VID_2516&PID_0051&MI_02&COL01\8&20BE62E9&0&0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00\3&11583659&0&C5
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0C02\15
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0C02\90
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0C02\91
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: STORAGE\VOLUME\{B524C40E-9993-11EA-8CCD-806E6F6E6963}#0000000000100000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0C14\MXM2
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\VID_2516&PID_0051&MI_00\7&13538D8E&0&0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\UNNAMED_DEVICE\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\UNNAMED_DEVICE\0001
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0C0C\AA
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00\3&11583659&0&C2
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SCSI\DISK&VEN_&PROD_ST1000LM044_HN-M\5&2B637674&0&050000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SCSI\DISK&VEN_SAMSUNG&PROD_SSD_850_EVO_250G\5&2B637674&0&000000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\USB\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\NDISVIRTUALBUS\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\VID_1532&PID_0221&MI_01\7&1A6D7135&0&0001
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\ROOT_HUB30\5&D20C093&0&0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: RZCONTROL\VID_1532&PID_0221&MI_00\9&363AC7CB&0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HID\VID_2516&PID_0051&MI_02&COL02\8&20BE62E9&0&0001
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0C02\700
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\VID_1532&PID_0221\6&3AF0F9CE&0&5
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: STORAGE\VOLUME\{B524C40D-9993-11EA-8CCD-806E6F6E6963}#0000000000100000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\VID_2516&PID_0051&MI_01\7&13538D8E&0&0001
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ACPI\PNP0800\4&24015488&0
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_10DE&DEV_1E07&SUBSYS_23833842&REV_A1\4&3A692A4A&0&001A
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\MSSMBIOS\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: USB\VID_046D&PID_C05A\6&2760BDAE&0&1
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00\3&11583659&0&C7
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_10DE&DEV_1AD6&SUBSYS_23833842&REV_A1\4&3A692A4A&0&021A
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: DISPLAY\GSMC0A0\5&20A1945E&0&UID33026
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL05\8&4E2EF18&0&0004
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\SYSTEM\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\SCSIADAPTER\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\RDPBUS\0000
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL04\8&4E2EF18&0&0003
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: RZVIRTUAL\VID_1532&PID_0221&MI_00&COL03\8&4E2EF18&0&01
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL03\8&4E2EF18&0&0002
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_10DE&DEV_10F7&SUBSYS_23833842&REV_A1\4&3A692A4A&0&011A
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+5/19/2020 12:54:50 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/19/2020 12:54:50 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Enlisting drivers under 'IDE ATA\ATAPI Controllers' node in Device Manager
+5/19/2020 12:54:50 AM :: **********************************************************************************
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&9B70DCB&0&0043
+5/19/2020 12:54:50 AM :: Checking for SATA since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&3298272D&0&0042
+5/19/2020 12:54:50 AM :: Checking for SATA since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2C18E2E3&0&010B
+5/19/2020 12:54:50 AM :: Checking for SATA since installer NOT run in maintenance mode
+5/19/2020 12:54:50 AM :: Enlisting drivers under 'Storage Controllers' node in Device Manager
+5/19/2020 12:54:50 AM :: ***************************************************************************
+5/19/2020 12:54:50 AM :: Device ID: ROOT\SPACEPORT\0000
+5/19/2020 12:54:50 AM :: Checking for RAID since installer NOT run in uninstall mode
+5/19/2020 12:54:50 AM :: Device ID: ROOT\SCSIADAPTER\0000
+5/19/2020 12:54:50 AM :: Checking for RAID since installer NOT run in uninstall mode
+5/19/2020 12:54:52 AM :: Source: C:\Users\boome\AppData\Local\Temp\Rar$EXa10532.10917\amd_chipset_drivers.exe
+5/19/2020 12:54:52 AM :: Destination: C:\AMD\Chipset_Driver_Installer\
+5/19/2020 12:54:52 AM :: Command to invoke QT Executable is  : C:\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\MSIFiles\Qt_Dependancies\Setup.exe /SETRYZENPPKG /SETSMBUS /SETPCI /SETGPIO2 /SETGPIO3 /SETPSP
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:11 AM :: File doesnt exist at : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\MSIFiles\Packages\devcon.exe
+5/19/2020 12:55:12 AM :: MSIExtract : Subfolder copied Successfully from C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF} to C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers
+5/19/2020 12:55:12 AM :: MSIExtract: Copying form C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers to C:\AMD\Chipset_Driver_Installer\
+5/19/2020 12:55:13 AM :: MSIExtract : Appdata copied Successfully from C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers to C:\AMD\Chipset_Driver_Installer\
+5/19/2020 12:55:13 AM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+5/19/2020 12:55:13 AM :: **************************************************************************
+5/19/2020 12:55:13 AM :: AMD SMBus Found SMBUS with Vendor id VEN_1022.Hence setting property DETECTAMD
+5/19/2020 12:55:13 AM :: Name: AMD SMBus
+5/19/2020 12:55:13 AM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/19/2020 12:55:13 AM :: PNP Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/19/2020 12:55:14 AM :: The last line in existing DPINST.LOG file is : INFO:   05/18/2020 21:52:31
+5/19/2020 12:55:14 AM :: The line count in existing DPINST.LOG file is : 34
+5/19/2020 12:55:14 AM :: List of features deployed initially : 
+5/19/2020 12:55:14 AM :: Remove value written to registry is: 
+5/19/2020 12:55:15 AM :: ProductCode value obtained from session : {D8561EEF-2B90-4BDB-B197-16E96924E6AA}
+5/19/2020 12:55:15 AM :: EstimatedSize value obtained form registry SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D8561EEF-2B90-4BDB-B197-16E96924E6AA}\ is : 46539
+5/19/2020 12:55:15 AM :: EstimatedSize value written to registry HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AMD_Chipset_IODrivers\EstimatedSize
+5/19/2020 12:55:15 AM :: QML Source: C:\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\MSIFiles\Qt_Dependancies\
+5/19/2020 12:55:15 AM :: Destination: C:\Program Files (x86)\AMD\Chipset_IODrivers
+5/19/2020 12:55:15 AM :: REMOVEVALUE property value is : 
+5/19/2020 12:55:15 AM :: DPLINECOUNT property value is : 34
+5/19/2020 12:55:15 AM :: ADDLOCAL property value is : Drivers,GPIO2,GPIO3,PCI,PSP,RYZENPPKG,SMBUS
+5/19/2020 12:55:15 AM :: REMPSHED property value is : 
+5/19/2020 12:55:15 AM :: Transaction NOT in uninstall mode
+5/19/2020 12:55:15 AM :: Skipping previous line count obtained from dpinst.log
+5/19/2020 12:55:15 AM :: Found PSP marked for installation.Writing registry key indicating reboot is required.
+5/22/2020 12:29:48 AM :: MSIQTExtract : Subfolder copied Successfully from C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\{7B828514-2011-4A22-A4E0-72B4CA254B79} to C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\ChipsetDriversExtract
+5/22/2020 12:29:50 AM :: MSIQTExtract : Appdata copied Successfully from C:\Users\boome\AppData\Roaming\AMD to C:\
+5/22/2020 12:29:50 AM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+5/22/2020 12:29:50 AM :: **************************************************************************
+5/22/2020 12:29:50 AM :: AMD SMBus Found SMBUS with Vendor id VEN_1022.Hence setting property DETECTAMD
+5/22/2020 12:29:50 AM :: Name: AMD SMBus
+5/22/2020 12:29:50 AM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/22/2020 12:29:50 AM :: PNP Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/22/2020 12:29:51 AM ::  OS Caption is : Microsoft Windows 10 Pro
+5/22/2020 12:29:51 AM ::  OS Version is : 10.0.18363
+5/22/2020 12:29:51 AM :: The registry key exists indicating product already installed.
+5/22/2020 12:29:51 AM :: SetUninstall value is : 1: Product Uninstalltion.
+5/22/2020 12:29:51 AM :: DeployedFeatures value since product is already installed : Drivers,GPIO2,GPIO3,PCI,PSP,RYZENPPKG,SMBUS
+5/22/2020 12:29:51 AM :: Setting property SETPSHED since OS WIN10 with Windows build number greater than or equal to the recomended value of 17110.
+5/22/2020 12:29:51 AM :: Enlisting drivers under USB node in Device Manager
+5/22/2020 12:29:51 AM :: ***********************************************************
+5/22/2020 12:29:51 AM :: Device ID: USB\ROOT_HUB30\5&358E0DD4&0&0
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_2516&PID_0051\6&3AF0F9CE&0&14
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\ROOT_HUB30\5&4087D53&0&0
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_05DC&PID_A81D\AAO8FY5W6TOQ1XKU
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\ROOT_HUB30\5&D20C093&0&0
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_1532&PID_0221\6&3AF0F9CE&0&5
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under USBHub node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Enlisting drivers under 'system devices' node(PNP) in Device Manager
+5/22/2020 12:29:51 AM :: **************************************************************************
+5/22/2020 12:29:51 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL02\8&4E2EF18&0&0001
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0C09\4&24015488&0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0C02\0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL01\8&4E2EF18&0&0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_1532&PID_0221&MI_02\7&1A6D7135&0&0002
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0100\4&24015488&0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_43C6&SUBSYS_02011B21&REV_01\4&2C18E2E3&0&020B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_2516&PID_0051&MI_00\7&121FD3BC&0&0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\DAFWSDPROVIDER\URN:UUID:564E4238-4843-5930-3033-DC4A3EB0FF41/HTTP://WWW.HP.COM/SCHEMAS/IMAGING/CON/LEDM/DISCOVERYTREE/2007/07/01
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1444&SUBSYS_00000000&REV_00\3&11583659&0&C4
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\PRINTENUM\{A8D159D4-9EC9-470C-B2BD-10F4309B8CFC}
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SCSI\DISK&VEN_SAMSUNG&PROD_SSD_850_EVO_250G\5&2B637674&0&010000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: HID\VID_2516&PID_0051&MI_02&COL02\8&2F7EF7E0&0&0001
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\PRINTENUM\PRINTQUEUES
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\AMDIF030\0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: AMD GPIO Controller Found with device id ACPI\AMDIF030.Hence setting property SETGPIO3
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\PRINTENUM\{4525DB07-3EC4-4AB6-9E15-78D9767F3270}
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\VOLMGR\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0103\2&DABA3FF&0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&00020B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\MSRRAS\MS_PPPOEMINIPORT
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: STORAGE\VOLUME\{C63DFB25-9B04-11EA-8CDE-806E6F6E6963}#0000000000100000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_8086&DEV_1539&SUBSYS_85F01043&REV_03\6&14BB3B56&0&0000020B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\PRINTENUM\{0231F9FD-294D-429D-A60F-D9DA8D6C2939}
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1441&SUBSYS_00000000&REV_00\3&11583659&0&C1
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\BASICDISPLAY\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USBSTOR\DISK&VEN_LEXAR&PROD_USB_FLASH_DRIVE&REV_1100\AAO8FY5W6TOQ1XKU&0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: HID\VID_1532&PID_0221&MI_02\8&28BA2CDA&0&0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\AMDI0030\0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: AMD GPIO Controller Found with device id ACPI\AMDI00300.Hence setting property SETGPIO2
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: HID\VIRTUALDEVICE&10&COL01\2&1043FD72&0&0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{EA9B4450-FB7D-4966-8781-298A0DD1014B}
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&9B70DCB&0&0043
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\ROOT_HUB30\5&358E0DD4&0&0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_790E&SUBSYS_87C01043&REV_51\3&11583659&0&A3
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1487&SUBSYS_87231043&REV_00\4&1FDE7688&0&0441
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0C14\ASUSWMI
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0C02\4&1FDE7688&0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_2516&PID_0051\6&3AF0F9CE&0&14
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_12341022&REV_00\3&11583659&0&0B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1483&SUBSYS_12341022&REV_00\3&11583659&0&1A
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&08020B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\MSRRAS\MS_PPTPMINIPORT
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_149C&SUBSYS_87C01043&REV_00\4&1FDE7688&0&0341
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: USB\VID_2516&PID_0051&MI_01\7&121FD3BC&0&0001
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&39
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&41
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&42
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1484&SUBSYS_14841022&REV_00\3&11583659&0&43
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\VID\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1486&SUBSYS_87C01043&REV_00\4&1FDE7688&0&0141
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: AMD PSP 11.0 Device Found with device id PCI\VEN_1022&DEV_1486.Hence setting property SETPSP
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1480&SUBSYS_87C01043&REV_00\3&11583659&0&00
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\COMPOSITEBUS\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\VDRVROOT\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: SWD\DAFWSDPROVIDER\URN:UUID:564E4238-4843-5930-3033-DC4A3EB0FF41/URI:1CD4F16E-8668-A7A0-4497-0014DEADBEEF/SCANNER1
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_43D5&SUBSYS_11421B21&REV_01\4&2C18E2E3&0&000B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&20020B
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: HID\VID_046D&PID_C05A\7&2D314AEE&0&0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\SPACEPORT\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_1446&SUBSYS_00000000&REV_00\3&11583659&0&C6
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: PCI\VEN_1022&DEV_790B&SUBSYS_87C01043&REV_61\3&11583659&0&A0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: AMD SMBus Found with revision id REV_61.Hence setting property SETRYZENPPKG
+5/22/2020 12:29:51 AM :: AMD SMBus Found with device id PCI\VEN_1022&DEV_790B.Hence setting property SETSMBUS since : Microsoft Windows 10 Pro
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ACPI\PNP0501\0
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: ROOT\KDNIC\0000
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:51 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:51 AM :: Device ID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT3
+5/22/2020 12:29:51 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{C63DFB25-9B04-11EA-8CDE-806E6F6E6963}#0000000021200000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VID_2516&PID_0051&MI_00\8&3B92A95D&0&0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{C63DFB27-9B04-11EA-8CDE-806E6F6E6963}#0000000000004400
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_148A&SUBSYS_87C01043&REV_00\4&D573D7&0&0039
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: AMD PCI Found with device id PCI\VEN_1022&DEV_148A.Hence setting property SETPCI since WIN10 OS.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0091&SUBSYS_38422383&REV_1001\5&10CD9C25&0&0001
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&30020B
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VIRTUALDEVICE&10&COL02\2&1043FD72&0&0001
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: USB\ROOT_HUB30\5&4087D53&0&0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&3298272D&0&0042
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: UEFI\RES_{9B3D3E13-CBBF-5166-8474-D8EC4570F24B}\0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: CORSAIRBUS\VIRTUALDEVICE&10\1&79F5D87&2&{E7FD4ACE-EE13-11E2-AFDA-000C29100502}
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1443&SUBSYS_00000000&REV_00\3&11583659&0&C3
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&08
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&10
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&18
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&20
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&28
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&38
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1482&SUBSYS_00000000&REV_00\3&11583659&0&40
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: USB\VID_2516&PID_0051&MI_02\7&121FD3BC&0&0002
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0B00\4&24015488&0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\WPDBUSENUM\_??_USBSTOR#DISK&VEN_LEXAR&PROD_USB_FLASH_DRIVE&REV_1100#AAO8FY5W6TOQ1XKU&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\UMBUS\0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VID_1532&PID_0221&MI_00&COL03\9&54B1979&0&0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{C63DFB27-9B04-11EA-8CDE-806E6F6E6963}#0000000001000000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\DAFWSDPROVIDER\URN:UUID:564E4238-4843-5930-3033-DC4A3EB0FF41/HTTP://WWW.HP.COM/SCHEMAS/IMAGING/IMG/IJC/2007/05/04
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: USB\VID_05DC&PID_A81D\AAO8FY5W6TOQ1XKU
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0000\4&24015488&0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C01\C8
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\ACPI_HAL\0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\IPP\564E4238-4843-5930-3033-DC4A3EB0FF41
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_43C7&SUBSYS_33061B21&REV_01\5&20AB19AA&0&38020B
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2C18E2E3&0&010B
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\MSRRAS\MS_NDISWANBH
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\MSRRAS\MS_NDISWANIP
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C14\AOD
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C14\AWW
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{12D729A5-9B08-11EA-8CDF-806E6F6E6963}#0000000000100000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0A08\0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VID_1532&PID_0221&MI_00\8&1EF44EAA&0&0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SCSI\DISK&VEN_&PROD_ST1000LM044_HN-M\5&2B637674&0&040000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_1168&SUBSYS_10438723&REV_1001\5&6E84173&0&0001
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1440&SUBSYS_00000000&REV_00\3&11583659&0&C0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\10
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\11
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\12
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\13
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\14
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\15
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\16
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\17
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_1
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_2
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_3
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_4
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_5
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_6
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_7
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_8
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_9
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_A
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_B
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_C
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_D
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_E
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_113_-_AMD_RYZEN_9_3900X_12-CORE_PROCESSOR____________\_F
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{C63DFB25-9B04-11EA-8CDE-806E6F6E6963}#0000000028600000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1485&SUBSYS_87C01043&REV_00\4&1FDE7688&0&0041
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: AMD PCI Found with device id PCI\VEN_1022&DEV_1485.Hence setting property SETPCI since WIN10 OS.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\DAFWSDPROVIDER\URN:UUID:564E4238-4843-5930-3033-DC4A3EB0FF41/HTTP://WWW.HP.COM/SCHEMAS/IMAGING/CON/WSPRINT/2007/05/HP_WSPRINT.WSDL
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI_HAL\PNP0C08\0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HTREE\ROOT\0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\BASICRENDER\0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\PRINTENUM\WSD-2AAB7BCB-B350-4835-A735-1E9366A3D5F3
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VIRTUALDEVICE&10&COL03\2&1043FD72&0&0002
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0200\4&24015488&0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\MSRRAS\MS_SSTPMINIPORT
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI_HAL\UEFI\0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{C63DFB26-9B04-11EA-8CDE-806E6F6E6963}#0000000008100000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: USB\VID_1532&PID_0221&MI_00\7&1A6D7135&0&0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SCSI\DISK&VEN_&PROD_ST2000DM008-2FR1\5&2B637674&0&050000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\PRINTENUM\{2A8CAAC2-5D14-4474-9D14-B95ACF6416FA}
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_10DE&DEV_1AD7&SUBSYS_23833842&REV_A1\4&3A692A4A&0&031A
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1445&SUBSYS_00000000&REV_00\3&11583659&0&C5
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C02\15
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C02\90
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C02\91
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C14\MXM2
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\{C63DFB25-9B04-11EA-8CDE-806E6F6E6963}#0000000027600000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\DAFWSDPROVIDER\URN:UUID:564E4238-4843-5930-3033-DC4A3EB0FF41
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\UNNAMED_DEVICE\0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\UNNAMED_DEVICE\0001
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ACPI\PNP0C0C\AA
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: PCI\VEN_1022&DEV_1442&SUBSYS_00000000&REV_00\3&11583659&0&C2
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VIRTUALDEVICE&10&COL04\2&1043FD72&0&0003
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\USB\0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: ROOT\NDISVIRTUALBUS\0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: SCSI\DISK&VEN_SANDISK&PROD_SDSSDA240G\5&2B637674&0&000000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: USB\VID_1532&PID_0221&MI_01\7&1A6D7135&0&0001
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: STORAGE\VOLUME\_??_USBSTOR#DISK&VEN_LEXAR&PROD_USB_FLASH_DRIVE&REV_1100#AAO8FY5W6TOQ1XKU&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: USB\ROOT_HUB30\5&D20C093&0&0
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:52 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:52 AM :: Device ID: HID\VID_2516&PID_0051&MI_02&COL01\8&2F7EF7E0&0&0000
+5/22/2020 12:29:52 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: HID\VID_2516&PID_0051&MI_01\8&17BB6B9B&0&0000
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: RZCONTROL\VID_1532&PID_0221&MI_00\9&363AC7CB&0
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ACPI\PNP0C02\700
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: USB\VID_1532&PID_0221\6&3AF0F9CE&0&5
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ACPI\PNP0800\4&24015488&0
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_10DE&DEV_1E07&SUBSYS_23833842&REV_A1\4&3A692A4A&0&001A
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\MSSMBIOS\0000
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: USB\VID_046D&PID_C05A\6&2760BDAE&0&2
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: STORAGE\VOLUME\{C63DFB26-9B04-11EA-8CDE-806E6F6E6963}#0000000000100000
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_1022&DEV_1447&SUBSYS_00000000&REV_00\3&11583659&0&C7
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_10DE&DEV_1AD6&SUBSYS_23833842&REV_A1\4&3A692A4A&0&021A
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: SWD\MMDEVAPI\{0.0.0.00000000}.{B7045C77-08B7-411A-A119-2C1B9594FC37}
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: DISPLAY\GSMC0A0\5&20A1945E&0&UID33026
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: SWD\PRINTENUM\{EFD263EE-9326-4998-B141-5339C045D4CC}
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL05\8&4E2EF18&0&0004
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\SYSTEM\0000
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\SYSTEM\0001
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\SYSTEM\0002
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\SCSIADAPTER\0000
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\RDPBUS\0000
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL04\8&4E2EF18&0&0003
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: RZVIRTUAL\VID_1532&PID_0221&MI_00&COL03\8&4E2EF18&0&01
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: SWD\MSRRAS\MS_NDISWANIPV6
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: HID\VIRTUALDEVICE&10&COL05\2&1043FD72&0&0004
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: HID\VID_1532&PID_0221&MI_01&COL03\8&4E2EF18&0&0002
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_10DE&DEV_10F7&SUBSYS_23833842&REV_A1\4&3A692A4A&0&011A
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: SWD\MSRRAS\MS_L2TPMINIPORT
+5/22/2020 12:29:53 AM :: Checking for REV_61 in deatils since the OS is Win 10,RS2.
+5/22/2020 12:29:53 AM :: Checking for XHCIREG under PNP node since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Enlisting drivers under 'IDE ATA\ATAPI Controllers' node in Device Manager
+5/22/2020 12:29:53 AM :: **********************************************************************************
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&9B70DCB&0&0043
+5/22/2020 12:29:53 AM :: Checking for SATA since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_1022&DEV_7901&SUBSYS_87C01043&REV_51\4&3298272D&0&0042
+5/22/2020 12:29:53 AM :: Checking for SATA since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Device ID: PCI\VEN_1022&DEV_43C8&SUBSYS_10621B21&REV_01\4&2C18E2E3&0&010B
+5/22/2020 12:29:53 AM :: Checking for SATA since installer NOT run in maintenance mode
+5/22/2020 12:29:53 AM :: Enlisting drivers under 'Storage Controllers' node in Device Manager
+5/22/2020 12:29:53 AM :: ***************************************************************************
+5/22/2020 12:29:53 AM :: Device ID: ROOT\SPACEPORT\0000
+5/22/2020 12:29:53 AM :: Checking for RAID since installer NOT run in uninstall mode
+5/22/2020 12:29:53 AM :: Device ID: ROOT\SCSIADAPTER\0000
+5/22/2020 12:29:53 AM :: Checking for RAID since installer NOT run in uninstall mode
+5/22/2020 12:29:55 AM :: Source: C:\Users\boome\AppData\Local\Temp\Rar$EXa8692.31179\amd_chipset_drivers.exe
+5/22/2020 12:29:55 AM :: Destination: C:\AMD\Chipset_Driver_Installer\
+5/22/2020 12:29:55 AM :: Command to invoke QT Executable is  : C:\AMD\Chipset_Driver_Installer\ChipsetDriversExtract\MSIFiles\Qt_Dependancies\Setup.exe /SETRYZENPPKG /SETSMBUS /SETPCI /SETGPIO2 /SETGPIO3 /SETPSP
+5/22/2020 12:30:02 AM :: SOURCEDIR property value is : C:\Users\boome\AppData\Roaming\AMD\Chipset_Driver_Installer\AMD_Chipset_Drivers\{B1A181BA-D991-4ABB-9004-BE22A98459DF}\
+5/22/2020 12:30:02 AM :: REMOVE property value from session is : 
+5/22/2020 12:30:02 AM :: Updating deployed features registry for use in uinstall scenario.Calling MoidifyRemoveValReg  
+5/22/2020 12:30:02 AM :: REMOVE property value from session for this maintenance mode : 
+5/22/2020 12:30:02 AM :: List of features existing bfr maintenance mode was triggered : Drivers,GPIO2,GPIO3,PCI,PSP,RYZENPPKG,SMBUS
+5/22/2020 12:30:02 AM :: The last line in existing DPINST.LOG file is : INFO:   05/19/2020 00:55:34
+5/22/2020 12:30:02 AM :: The line count in existing DPINST.LOG file is : 227
+5/22/2020 12:30:02 AM :: List of features deployed initially : Drivers,GPIO2,GPIO3,PCI,PSP,RYZENPPKG,SMBUS
+5/22/2020 12:30:02 AM :: Not appending since registry already exists and non-uninstallable products are not selected in modify mode.
+5/22/2020 12:30:02 AM :: Remove value written to registry is: 
+5/22/2020 12:30:02 AM :: ProductCode value obtained from session : {D8561EEF-2B90-4BDB-B197-16E96924E6AA}
+5/22/2020 12:30:02 AM :: EstimatedSize value obtained form registry SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{D8561EEF-2B90-4BDB-B197-16E96924E6AA}\ is : 46539
+5/22/2020 12:30:02 AM :: EstimatedSize value written to registry HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\AMD_Chipset_IODrivers\EstimatedSize
+5/22/2020 12:30:02 AM :: REMOVEVALUE property value is : 
+5/22/2020 12:30:02 AM :: DPLINECOUNT property value is : 227
+5/22/2020 12:30:02 AM :: ADDLOCAL property value is : GPIO2,GPIO3,PCI,PSP,RYZENPPKG,SMBUS
+5/22/2020 12:30:02 AM :: REMPSHED property value is : 
+5/22/2020 12:30:02 AM :: Transaction NOT in uninstall mode
+5/22/2020 12:30:02 AM :: Skipping previous line count obtained from dpinst.log
+5/22/2020 12:30:02 AM :: Found PSP marked for installation.Writing registry key indicating reboot is required.
